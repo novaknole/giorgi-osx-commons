@@ -14,7 +14,8 @@ interface IPlugin {
         enumTwo,
         enumThree,
         enumFour,
-        enumSix
+        enumSix,
+        enumSeven
     }
 
     /// @notice Types of plugin implementations available within OSx.
